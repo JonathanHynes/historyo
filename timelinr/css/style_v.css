@@ -41,12 +41,12 @@ h1,h2,h4,h5,h6 {
 }
 
 	#timeline {
-		width: 500px;
-		height: 600px;
-		overflow: hidden;
-		margin: 40px auto;
-		position: relative;
-		background: url('../images/dot.gif') 3px top repeat-y;
+	width: 500px;
+	height: 600px;
+	overflow: hidden;
+	margin: 40px auto;
+	position: relative;
+	background: url('../images/dot.gif') 3px top repeat-y;
 	}
 		#dates {
 			width: 100px;
@@ -78,10 +78,9 @@ h1,h2,h4,h5,h6 {
 			float: left;
 		}	
 			#issues li {
-				width: 400px;
-				height: 600px;
-				list-style: none;
-
+	width: 400px;
+	height: 600px;
+	list-style: none;
 			}
 				#issues li.selected img {
 					-webkit-transform: scale(1.1,1.1);
@@ -108,17 +107,16 @@ h1,h2,h4,h5,h6 {
 				    transform: scale(0.7,0.7);
 				}
 				#issues li h1 {
-					color: #556DA4;
-					font-size: 48px;
-					text-align: center;
-					text-shadow: #000 1px 1px 2px;
+	color: #556DA4;
+	font-size: 48px;
+	text-align: center;
+	
 				}
 				#issues li p {
-					font-size: 14px;
-					margin: 10px 20px;
-					font-weight: normal;
-					line-height: 22px;
-					text-shadow: #000 1px 1px 2px;
+	font-size: 14px;
+	margin: 10px 20px;
+	font-weight: normal;
+	line-height: 22px;
 				}
 		
 		#grad_top,

@@ -12,7 +12,7 @@ instructions: http://www.csslab.cl/2011/08/18/jquery-timelinr/
 jQuery.fn.timelinr = function(options){
 	// default plugin settings
 	settings = jQuery.extend({
-		orientation: 				'horizontal',		// value: horizontal | vertical, default to horizontal
+		orientation: 				'vertical',		// value: horizontal | vertical, default to horizontal
 		containerDiv: 				'#timeline',		// value: any HTML tag or #id, default to #timeline
 		datesDiv: 					'#dates',			// value: any HTML tag or #id, default to #dates
 		datesSelectedClass: 		'selected',			// value: any class, default to selected
@@ -20,7 +20,7 @@ jQuery.fn.timelinr = function(options){
 		issuesDiv: 					'#issues',			// value: any HTML tag or #id, default to #issues
 		issuesSelectedClass: 		'selected',			// value: any class, default to selected
 		issuesSpeed: 				'fast',				// value: integer between 100 and 1000 (recommended) or 'slow', 'normal' or 'fast'; default to fast
-		issuesTransparency: 		0.2,				// value: integer between 0 and 1 (recommended), default to 0.2
+		issuesTransparency: 		0,				// value: integer between 0 and 1 (recommended), default to 0.2
 		issuesTransparencySpeed: 	500,				// value: integer between 100 and 1000 (recommended), default to 500 (normal)
 		prevButton: 				'#prev',			// value: any HTML tag or #id, default to #prev
 		nextButton: 				'#next',			// value: any HTML tag or #id, default to #next
