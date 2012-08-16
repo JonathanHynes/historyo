@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_area_text.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_argument_null.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_boolean.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_counter.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_custom.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_date.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_file_size.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_math.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_url.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_field_xss.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_filter_date.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_filter_equality.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_filter_in_operator.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_filter_numeric.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_filter_string.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_sort.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_sort_date.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+<file name="views_handler_sort_random.test" server="10.0.30.42//public_html/" local="129852939600000000" remote="129852939600000000" />
+</dwsync>

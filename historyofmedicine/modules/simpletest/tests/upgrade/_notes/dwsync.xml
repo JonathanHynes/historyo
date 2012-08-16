@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="drupal-6.bare.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.comments.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.filled.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.forum.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.locale.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.menu.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.node_type_broken.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.translatable.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.trigger.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.upload.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.user-no-password-token.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-6.user-password-token.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-7.bare.minimal.database.php.gz" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-7.bare.standard_all.database.php.gz" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-7.field.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-7.filled.minimal.database.php.gz" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-7.filled.standard_all.database.php.gz" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="drupal-7.trigger.database.php" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="update.field.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="update.trigger.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="update.user.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.comment.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.filter.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.forum.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.locale.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.menu.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.node.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.poll.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.taxonomy.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.translatable.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.trigger.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.upload.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+<file name="upgrade.user.test" server="10.0.30.42//public_html/" local="129804702000000000" remote="129804702000000000" />
+</dwsync>
