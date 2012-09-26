@@ -4,14 +4,14 @@
 }
 
 body {
-	background: #EBE7E0;
+	background: #222;
 	font-family: Georgia, serif;
-	color: #3D3C3B;
+	color: #fff;
 	font-size: 14px;
 }
 
 a {
-	color: #487AA1;
+	color: #ffffcc;
 	text-decoration: none;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -21,12 +21,13 @@ a {
 }
 	a:hover,
 	a.selected {
-		color: #556DA4;
+		color: #ffcc00;
 	}
 
 h1,h2,h4,h5,h6 {
 	text-align: center;
 	color: #ccc;
+	text-shadow: #000 1px 1px 2px;
 	margin-bottom: 5px;
 }
 	h1 {
@@ -41,27 +42,26 @@ h1,h2,h4,h5,h6 {
 }
 
 	#timeline {
-	width: 500px;
-	height: 600px;
-	overflow: hidden;
-	margin: 40px auto;
-	position: relative;
-	background: url('../images/dot.gif') 3px top repeat-y;
+		width: 800px;
+		height: 350px;
+		overflow: hidden;
+		margin: 100px auto;
+		position: relative;
+		background: url('../images/dot.gif') left 45px repeat-x;
 	}
 		#dates {
-			width: 100px;
-			height: 600px;
+			width: 800px;
+			height: 60px;
 			overflow: hidden;
-			float: left;
 		}
 			#dates li {
 				list-style: none;
+				float: left;
 				width: 100px;
-				height: 100px;
-				line-height: 100px;
+				height: 50px;
 				font-size: 24px;
-				padding-left: 10px;
-				background: url('../images/biggerdot.png') left center no-repeat;
+				text-align: center;
+				background: url('../images/biggerdot.png') center bottom no-repeat;
 			}
 				#dates a {
 					line-height: 38px;
@@ -72,15 +72,15 @@ h1,h2,h4,h5,h6 {
 				}
 		
 		#issues {
-			width: 400px;
-			height: 600px;
+			width: 800px;
+			height: 350px;
 			overflow: hidden;
-			float: left;
 		}	
 			#issues li {
-	width: 400px;
-	height: 600px;
-	list-style: none;
+				width: 800px;
+				height: 350px;
+				list-style: none;
+				float: left;
 			}
 				#issues li.selected img {
 					-webkit-transform: scale(1.1,1.1);
@@ -92,6 +92,7 @@ h1,h2,h4,h5,h6 {
 				#issues li img {
 					float: left;
 					margin: 10px 30px 10px 50px;
+					background: transparent;
 					-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)"; /* IE 8 */   
 					filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);/* IE 6 & 7 */      
 					zoom: 1;
@@ -107,55 +108,59 @@ h1,h2,h4,h5,h6 {
 				    transform: scale(0.7,0.7);
 				}
 				#issues li h1 {
-	color: #556DA4;
-	font-size: 48px;
-	text-align: center;
-	
+					color: #ffcc00;
+					font-size: 48px;
+					margin: 20px 0;
+					text-shadow: #000 1px 1px 2px;
 				}
 				#issues li p {
-	color: #7c8071;
-	font-size: 14px;
-	margin: 10px 20px;
-	font-weight: normal;
-	line-height: 22px;
+					font-size: 14px;
+					margin-right: 70px;
+					font-weight: normal;
+					line-height: 22px;
+					text-shadow: #000 1px 1px 2px;
 				}
 		
-		#grad_top,
-		#grad_bottom {
-			width: 500px;
-			height: 80px;
+		#grad_left,
+		#grad_right {
+			width: 100px;
+			height: 350px;
 			position: absolute;
+			top: 0;
 		}
-			#grad_top {
-		        top: 0;
-		    }
-			#grad_bottom {
-		        bottom: 0;
-		    }
+			#grad_left {
+		        left: 0;
+		        background: url('../images/grad_left.png') repeat-y;
+			}
+			#grad_right {
+		        right: 0;
+		        background: url('../images/grad_right.png') repeat-y;
+			}
 		
 		#next,
 		#prev {
-	position: absolute;
-	left: 55%;
-	font-size: 70px;
-	width: 38px;
-	height: 22px;
-	background-position: 0 -44px;
-	background-repeat: no-repeat;
-	text-indent: -9999px;
-	overflow: hidden;
+			position: absolute;
+			top: 0;
+			font-size: 70px;
+			top: 170px;
+			width: 22px;
+			height: 38px;
+			background-position: 0 0;
+			background-repeat: no-repeat;
+			text-indent: -9999px;
+			overflow: hidden;
 		}
 			#next:hover,
 			#prev:hover {
-				background-position:  0 0;
+				background-position: 0 -76px;
 			}
 			#next {
-				bottom: 0;
-				background-image: url('../images/next_v.png');
+				right: 0;
+				background-image: url('../images/next.png');
 			}
 			#prev {
-				top: 0;
-				background-image: url('../images/prev_v.png');
+				left: 0;
+				background-image: url('../images/prev.png');
 			}
 				#next.disabled,
 				#prev.disabled {

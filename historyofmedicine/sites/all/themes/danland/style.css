@@ -4,7 +4,7 @@
 -------------------------------------------------------------- */
 
 body {
-background:url(images/body-bg.gif) repeat-x #fff;
+background:url(images/body-bg.png) repeat-x #fff;
 font-size: 84%;
 font-family: Arial, Helvetica, sans-serif;
 color: #000;
@@ -136,7 +136,7 @@ margin-left: 15px;
 }
 
 .logo IMG {
-height:50px;
+height:100px;
 }
 
 #branding-wrapper {
@@ -627,7 +627,7 @@ font-size:12px;
 
 #sidebar-left h2.block-title,
 #sidebar-right h2.block-title {
-background: #e6e6e6;
+background: #BDB8AD;
 margin:0;
 padding-top: 5px;
 padding-bottom: 5px;
@@ -642,7 +642,7 @@ padding: 5px 15px;
 }
 
 .sidebar .block {
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -708,7 +708,7 @@ border-bottom: 1px solid #bbb;
 border-right: 1px solid #bbb;
 border-left: 1px solid #ddd;
 border-top: 1px solid #ddd;
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 margin:0 0 20px;
 }
 
@@ -741,7 +741,7 @@ border-bottom: 1px solid #bbb;
 border-right: 1px solid #bbb;
 border-left: 1px solid #ddd;
 border-top: 1px solid #ddd;
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 margin:20px 0 0;
 }
 
@@ -782,7 +782,7 @@ padding-top:5px;
 }
 
 .preview .node, .preview .comment{
-background-color: #f4f4f4;;
+background-color: #EBE7E0;;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -801,7 +801,7 @@ text-decoration: underline;
 
 .node-sticky {
 padding: 1em;
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -810,7 +810,7 @@ margin:0;
 }
 
 .messages {
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -820,7 +820,7 @@ margin-bottom: 1em;
 }
 
 .breadcrumb {
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -840,7 +840,7 @@ padding-right:10px;
 -------------------------------------------------------------- */
 
 .comment {
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -870,7 +870,7 @@ padding-bottom: 1em;
 }
 
 #aggregator .feed-source {
-background-color: #f4f4f4;
+background-color: #EBE7E0;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -920,7 +920,7 @@ padding: 0.5em;
 }
 
 #forum td.container {
-background-color: #e6e6e6;
+background-color: #BDB8AD;
 }
 
 #forum ul.links a {
@@ -955,7 +955,7 @@ margin: 0 0 .5em 1em;
 }
 
 tr.odd {
-background-color:#f4f4f4;
+background-color:#EBE7E0;
 }
 
 tr.even {
@@ -964,7 +964,7 @@ background-color:#fcfcfc;
 
 th {
 text-align:left;
-background: #E6E6E6;
+background: #BDB8AD;
 }
 
 tr td, tr th {
@@ -991,7 +991,7 @@ border-left: 1px solid #ddd;
 border-top: 1px solid #ddd;
 padding: .8em;
 margin: 1em 0em;
-background-color: #f4f4f4;;
+background-color: #EBE7E0;;
 }
 
 .profile h3 {
@@ -1002,7 +1002,7 @@ margin-bottom:10px;
 -------------------------------------------------------------- */
 
 div.admin-panel .body {
-background: #f4f4f4;
+background: #EBE7E0;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -1010,7 +1010,7 @@ border-top: 1px solid #ddd;
 }
 
 div.admin-panel h3 {
-background-color: #e6e6e6;;
+background-color: #BDB8AD;;
 border-right: 1px solid #bbb;
 border-bottom: 1px solid #bbb;
 border-left: 1px solid #ddd;
@@ -1255,7 +1255,7 @@ padding-left:4px;
 padding-right:4px;
 padding-top:1px;
 padding-bottom:1px;
-background-color: #f4f4f4;;
+background-color: #EBE7E0;;
 }
 
 .item-list .pager li a:hover {
@@ -1280,7 +1280,7 @@ padding-top:5px;
 }
 
 ul.primary li a {
-background-color:#f4f4f4;
+background-color:#EBE7E0;
 border-color:#ccc;
 border-style:solid solid none;
 border-width:1px;
@@ -1394,7 +1394,7 @@ margin:15px 0;
 -------------------------------------------------------------- */
 
 #bottom-wrapper {
-background-color: #f4f4f4;;
+background-color: #EBE7E0;;
 border-right: 1px solid #bbb;
 border-left: 1px solid #ddd;
 border-top: 1px solid #ddd;
